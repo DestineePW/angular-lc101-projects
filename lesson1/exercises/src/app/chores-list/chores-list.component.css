@@ -5,8 +5,11 @@
 
 h3 {
   text-decoration: underline;
+  text-align: center;
+
 }
 
 ul {
   font-style: italic;
+  text-align: left;
 }
